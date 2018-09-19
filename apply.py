@@ -22,7 +22,7 @@ idk = set()
 big = set()
 errors = []
 
-userId = "e-mail"
+userId = "email address"
 passKey = "pass"
 
 browser = webdriver.Firefox()

@@ -8,7 +8,7 @@ import random
 class LinkedinCrawler(object):
 
     def __init__(self):
-        self.userId = "E-mail"
+        self.userId = "email address"
         self.passKey = "password"
         self.browser = webdriver.Firefox()
         self.links = []
